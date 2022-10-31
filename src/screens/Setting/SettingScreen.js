@@ -3,7 +3,7 @@ import React from 'react';
 
 const SettingScreen = () => {
   return (
-    <View>
+    <View style={{flex: 1}}>
       <Text>Setting</Text>
     </View>
   );
