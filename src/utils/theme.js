@@ -20,6 +20,7 @@ const theme = {
     lightpurpal: '#F4FAFF',
     red: '#FF0000',
     lightBlue: '#DCEDFB',
+    green: '#00ff00 ',
   },
   SCREENWIDTH: width,
   SCREENHEIGHT: height,
